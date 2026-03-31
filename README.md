@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19224923.svg)](https://doi.org/10.5281/zenodo.19224923)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19284370.svg)](https://doi.org/10.5281/zenodo.19284370)
 
 # PSL: Code and Data for Spatial Model Comparison
 
